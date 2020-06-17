@@ -1,4 +1,4 @@
-# Glints-Task-2
+# Glints-Task1-Part2
 A program that help match individuals with one another in a job hunt
 
 How to run?
